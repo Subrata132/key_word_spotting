@@ -1,0 +1,37 @@
+# Build and Release Folders
+bin-debug/
+bin-release/
+[Oo]bj/
+[Bb]in/
+
+# Other files and folders
+.settings/
+.ipynb_checkpoints
+.vscode/
+.idea/
+__pycache__/
+venv/
+features/
+features_new/
+model_tf/
+saved_results/
+speech_commands_v0.02/
+
+
+
+# Files
+*.wav
+*.ckpt
+*.yaml
+*.h5
+notebooks/Metrics.ipynb
+
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
+
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
+# information for Eclipse / Flash Builder.
